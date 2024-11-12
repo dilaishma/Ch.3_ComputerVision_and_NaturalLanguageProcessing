@@ -1,6 +1,6 @@
 # Ch.3_ComputerVision_and_NaturalLanguageProcessing
 
-I created this repository to explain my team assignment deliverables chapter 2 “Machine Learning and Deep Learning" in MSIB program at Startup Campus
+I created this repository to explain my team assignment deliverables chapter 3 “Computer Vision and Natural Language Processing" in MSIB program at Startup Campus
 
 ****Assignment 3 case [1]****
 **Computer Vision - Digital Image Processing**
